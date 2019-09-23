@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <RootNamespace>paket_local_tool_sample</RootNamespace>
-    <PaketCommand>dotnet paket</PaketCommand>
+    <!-- <PaketCommand>dotnet paket</PaketCommand> -->
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Program.fs" />
